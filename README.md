@@ -11,7 +11,7 @@ Me chamo Guilherme Ferreira Santos, tenho 22 anos e sou natural de São Paulo. C
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GiFiSi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
+    <br/>
     <a href="https://github.com/GiFiSi?tab=followers">
         <img 
             alt="Seguidores" 
