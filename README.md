@@ -65,6 +65,8 @@ Comecei a faculdade de Redes de Computadores na UFSM, mas decidi não concluir, 
     src="https://github-readme-stats.vercel.app/api?username=GiFiSi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
