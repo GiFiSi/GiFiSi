@@ -70,7 +70,7 @@ Comecei a faculdade de Redes de Computadores na UFSM, mas decidi não concluir, 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiFiSi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
