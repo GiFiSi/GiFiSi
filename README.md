@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Ferreira Santos, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio no Walther Weiszflog, onde cursei eletivas como Robótica, Astronomia, Cultura Jovem e Atualidades, O Universo Geek, Desenvolvimento do Ser, Evolução Digital dos Games e S.O.S. Robótica. Atualmente, trabalho como Programador Back End na empresa Brasil Telas. Sou apaixonado por tecnologia, incluindo programação, jogos digitais e redes neurais, além de me interessar por qualquer tecnologia ou ciência em desenvolvimento.
+Me chamo Guilherme Ferreira Santos, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio no Walther Weiszflog, onde cursei eletivas como: Robótica; Astronomia; Cultura Jovem e Atualidades; O Universo Geek e Desenvolvimento do Ser; Evolução Digital dos Games; e S.O.S. Robótica. Atualmente, trabalho como Programador Back End na empresa Brasil Telas. Sou apaixonado por tecnologia, incluindo programação, jogos digitais e redes neurais, além de me interessar por qualquer tecnologia ou ciência em desenvolvimento.
 
 <p align="left">
     <a href="https://github.com/GiFiSi?tab=repositories&sort=stargazers">
