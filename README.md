@@ -47,7 +47,7 @@ Atualmente, trabalho como Programador Back End na Brasil Telas, uma loja de tela
 
 - **Automação com Google Sheets e API do Bling:** Desenvolvi um sistema de automação que utiliza uma planilha do Google Sheets para receber e processar informações diretamente integradas via API do Bling.
 - **Envio automatizado de imagens para WhatsApp:** Criei uma aplicação que identifica imagens específicas enviadas pelo Looker Studio através de e-mail e as encaminha automaticamente para grupos do WhatsApp.
-- **Jogo multiplayer conectado à Steam (em desenvolvimento):** Atualmente trabalhando no desenvolvimento de um jogo multiplayer com integração à plataforma Steam.
+- **Jogo multiplayer conectado à Steam (em desenvolvimento):** Steam devidamente conectada juntamente com um pacote de movimentação diferente para a Unreal.
 
 ### 🎮 Hobbies
 
