@@ -46,6 +46,8 @@ Atualmente, trabalho como Programador Back End na Brasil Telas, uma loja de tela
 ### 📊 Projetos
 
 - Desenvolvi um projeto de automação utilizando uma planilha do Google Sheets que recebe informações através da API do Bling.
+- Uma aplicação que consegue pegar uma iamgem especifica enviado pelo Looker Studio através do seu Email e enviar para um grupo do WHatsApp.
+- Em desenvolvimento: Um jogo multiplayer conectado a Steam.
 
 ### 🎮 Hobbies
 
