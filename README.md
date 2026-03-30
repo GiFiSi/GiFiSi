@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Guilherme Ferreira Santos
 **Data & Automation Engineer | AI Tech Student at FIAP**
 
-[cite_start]Atualmente focado em arquitetar soluções de **Engenharia de Dados e Automação Industrial**, transformando fluxos operacionais complexos em pipelines eficientes e data-driven[cite: 5, 10, 11]. [cite_start]Atuo na Brasil Telas como responsável pela infraestrutura de dados e integração de sistemas (ERP/iPaaS)[cite: 10, 11].
+Atualmente focado em arquitetar soluções de Engenharia de Dados e Automação Industrial, transformando fluxos operacionais complexos em pipelines eficientes e data-driven. Atuo na Brasil Telas como responsável pela infraestrutura de dados e integração de sistemas (ERP/iPaaS).
 
 ---
 
@@ -17,17 +17,17 @@
 
 ### 📊 Projetos de Destaque
 
-* [cite_start]**[ERP & Pipeline Automation (Mock)](https://github.com/GiFiSi/erp-automation-n8n-mock):** Arquitetura de um pipeline ETL Zero-Budget utilizando n8n, Docker e Python para integração de APIs financeiras e logísticas[cite: 7, 11, 13].
-* [cite_start]**Automação de Inteligência de Negócio:** Desenvolvimento de aplicação para interceptação de reports do Looker Studio e distribuição automatizada via API de mensageria (WhatsApp/E-mail)[cite: 14].
-* [cite_start]**TalentAI (FIAP):** WebApp Full-Stack com integração de IA Generativa (OpenAI/Hugging Face) para análise de perfis profissionais[cite: 27].
+* **[ERP & Pipeline Automation (Mock)](https://github.com/GiFiSi/erp-automation-n8n-mock):** Arquitetura de um pipeline ETL Zero-Budget utilizando n8n, Docker e Python para integração de APIs financeiras e logísticas.
+* **Automação de Inteligência de Negócio:** Desenvolvimento de aplicação para interceptação de reports do Looker Studio e distribuição automatizada via API de mensageria (WhatsApp/E-mail).
+* **TalentAI (FIAP):** WebApp Full-Stack com integração de IA Generativa (OpenAI/Hugging Face) para análise de perfis profissionais.
 * **Game Dev:** Desenvolvimento de mecânicas multiplayer integradas à Steam API utilizando Unreal Engine (C++/Blueprints).
 
 ---
 
 ### 🎓 Educação e Metas
 
-* [cite_start]**Graduação em Inteligência Artificial:** FIAP (Cursando - Selo Gold de Excelência Acadêmica).
-* [cite_start]**Especialização:** Focado em Engenharia de Dados, FinOps e arquiteturas de baixo custo para alta performance[cite: 7, 36].
+* **Graduação em Inteligência Artificial:** FIAP (Cursando - Selo Gold de Excelência Acadêmica).
+* **Especialização:** Focado em Engenharia de Dados, FinOps e arquiteturas de baixo custo para alta performance.
 * **Idiomas:** Inglês Técnico (Leitura e Escuta de documentações nativas).
 
 ---
@@ -35,14 +35,14 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiFiSi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiFiSi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiFiSi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiFiSi&theme=tokyonight&layout=compact&langs_count=8" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
 
 ### 📫 Conecte-se Comigo
 <p align="center">
-<a href="https://www.linkedin.com/in/guilherme-ferreira-santos-94619b23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gifisi.channel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-ferreira-santos-94619b23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:gifisi.channel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
