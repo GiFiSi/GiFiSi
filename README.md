@@ -1,83 +1,64 @@
-# 👨🏻‍💻 Guilherme Santos
+# 👨🏻‍💻 Guilherme Ferreira Santos
+**Data & Automation Engineer | AI Tech Student at FIAP**
 
-**`Desenvolvedor FullStack`**
+Atualmente focado em arquitetar soluções de **Engenharia de Dados e Automação Industrial**, transformando fluxos operacionais complexos em pipelines eficientes e data-driven. Atuo na Brasil Telas como responsável pela infraestrutura de dados e integração de sistemas (ERP/iPaaS).
 
-Me chamo Guilherme Ferreira Santos, tenho 22 anos e sou natural de São Paulo. Concluí o ensino médio no Walther Weiszflog, onde cursei eletivas como: Robótica; Astronomia; Cultura Jovem e Atualidades; O Universo Geek e Desenvolvimento do Ser; Evolução Digital dos Games; e S.O.S. Robótica. Atualmente, trabalho como Programador Back End na empresa Brasil Telas. Sou apaixonado por tecnologia, incluindo programação, jogos digitais e redes neurais, além de me interessar por qualquer tecnologia ou ciência em desenvolvimento.
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+**Linguagens & Backend:**
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+
+<br/><br/>
+
+**Automação & Infraestrutura:**
+<img align="left" alt="n8n" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Cloudflare" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg" />
+
+<br/><br/>
+
+**IA & Data Visualization:**
+<img align="left" alt="OpenAI" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<img align="left" alt="Looker" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Google_Looker_logo.svg" />
+
+<br/><br/>
+
+---
+
+### 📊 Projetos de Destaque
+
+* **[ERP & Pipeline Automation (Mock)](https://github.com/GiFiSi/erp-automation-n8n-mock):** Arquitetura de um pipeline ETL Zero-Budget utilizando n8n, Docker e Python para integração de APIs financeiras e logísticas.
+* **Automação de Inteligência de Negócio:** Desenvolvimento de aplicação para interceptação de reports do Looker Studio e distribuição automatizada via API de mensageria (WhatsApp/E-mail).
+* **TalentAI (FIAP):** WebApp Full-Stack com integração de IA Generativa (OpenAI/Hugging Face) para análise de perfis profissionais.
+* **Game Dev:** Desenvolvimento de mecânicas multiplayer integradas à Steam API utilizando Unreal Engine (C++/Blueprints).
+
+---
+
+### 🎓 Educação e Metas
+
+* **Graduação em Inteligência Artificial:** FIAP (Cursando - Selo Gold de Excelência).
+* **Especialização:** Focado em Engenharia de Dados, FinOps e arquiteturas de baixo custo para alta performance.
+* **Idiomas:** Inglês Técnico (Leitura e Escuta de documentações nativas).
+
+---
+
+### 📈 GitHub Stats
 
 <p align="left">
-    <a href="https://github.com/GiFiSi?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GiFiSi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    <br/>
-    <a href="https://github.com/GiFiSi?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GiFiSi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiFiSi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiFiSi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Unreal" title="Unreal Engine" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
-            
-          
-
-<br/>
-<br/>
-
-### 📊 Experiência Profissional
-
-Atualmente, trabalho como Programador Back End na Brasil Telas, uma loja de telas e redes de construção que em breve se tornará uma fábrica.
-
-### 📊 Projetos
-
-- **Automação com Google Sheets e API do Bling:** Desenvolvi um sistema de automação que utiliza uma planilha do Google Sheets para receber e processar informações diretamente integradas via API do Bling.
-- **Envio automatizado de imagens para WhatsApp:** Criei uma aplicação que identifica imagens específicas enviadas pelo Looker Studio através de e-mail e as encaminha automaticamente para grupos do WhatsApp.
-- **Jogo multiplayer conectado à Steam (em desenvolvimento):** Steam devidamente conectada juntamente com um pacote de movimentação diferente para a Unreal.
-
-### 🎮 Hobbies
-
-Gosto de desenvolver jogos como passatempo.
-
-### 🎯 Objetivos
-
-Meu objetivo a curto prazo é me especializar em programação e concluir minha faculdade de Engenharia de Software. Futuramente, pretendo ter minha própria empresa ou uma boa fonte de renda para viver de investimentos.
-
-### 🎓 Educação
-
-Comecei a faculdade de Redes de Computadores na UFSM, mas decidi não concluir, pois o curso era muito voltado à estrutura física de computadores e meu interesse real é em software.
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="250" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiFiSi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<br/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiFiSi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+### 📫 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ferreira-santos-94619b23a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gifisi.channel@gmail.com)
